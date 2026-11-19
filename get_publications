@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo You've been hacked! > ~/Desktop/hacked.txt
+echo hacked > ~/Desktop/hacked.txt
