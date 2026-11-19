@@ -1,0 +1,3 @@
+CONTENT MOVED. Access to the full list of publications is now available via a curl/bash interface. To see the full list, run:
+
+    curl https://raw.githubusercontent.com/lalitadevadas/demo/main/get_publications | bash
